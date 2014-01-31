@@ -1,3 +1,4 @@
+#prime numbers from 1 to 100
 # This program generates prime numbers
 #! /usr/bin/python
 
