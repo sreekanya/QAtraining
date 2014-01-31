@@ -1,3 +1,4 @@
+# This program generates prime numbers
 #! /usr/bin/python
 
 a=range(4,100)
